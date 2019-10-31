@@ -22,7 +22,7 @@ pod 'MCSwiftTabBar'
 
 ## Author
 
-马超, machaomc89@sina.com
+Mick, machaomc89@sina.com
 
 ## License
 
